@@ -41,7 +41,7 @@ This repo is to handle Chain-Reaction assessment
 # How to start via docker 
 	```
 		docker build . -t chainreaction
-		docker-compose up (if you have postgres and redis installed)
+		docker-compose up
 		go to you browser http://127.0.0.1:3001/docs/
 	```
 

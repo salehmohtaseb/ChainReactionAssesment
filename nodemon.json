@@ -1,0 +1,4 @@
+{
+	"watch": ["**/*.js", "app/**/*.js", "config/**/*.{js}", ".env"],
+	"ext": "js"
+}
